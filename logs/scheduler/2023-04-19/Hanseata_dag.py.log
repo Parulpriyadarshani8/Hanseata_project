@@ -1076,3 +1076,710 @@
 [2023-04-19T10:15:29.625+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:15:29.625+0000] {dag.py:2705} INFO - Sync 1 DAGs
 [2023-04-19T10:15:29.642+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:15:29.642+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
 [2023-04-19T10:15:29.654+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.499 seconds
+[2023-04-19T10:16:00.092+0000] {processor.py:153} INFO - Started process (PID=96820) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:16:00.094+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:16:00.095+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:16:00.095+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:16:00.473+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:16:00.490+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:16:00.490+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:16:00.503+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:16:00.503+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:16:00.514+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.426 seconds
+[2023-04-19T10:16:30.963+0000] {processor.py:153} INFO - Started process (PID=96875) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:16:30.964+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:16:30.966+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:16:30.966+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:16:31.324+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:16:31.339+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:16:31.338+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:16:31.353+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:16:31.353+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:16:31.362+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.404 seconds
+[2023-04-19T10:17:01.669+0000] {processor.py:153} INFO - Started process (PID=96930) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:17:01.671+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:17:01.672+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:17:01.672+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:17:01.932+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:17:01.946+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:17:01.946+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:17:01.960+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:17:01.959+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:17:01.968+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.304 seconds
+[2023-04-19T10:17:32.243+0000] {processor.py:153} INFO - Started process (PID=96985) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:17:32.244+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:17:32.245+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:17:32.245+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:17:32.643+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:17:32.661+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:17:32.660+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:17:32.681+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:17:32.681+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:17:32.692+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.452 seconds
+[2023-04-19T10:18:03.148+0000] {processor.py:153} INFO - Started process (PID=97040) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:18:03.149+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:18:03.151+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:18:03.150+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:18:03.431+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:18:03.445+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:18:03.445+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:18:03.459+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:18:03.458+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:18:03.468+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.324 seconds
+[2023-04-19T10:18:33.711+0000] {processor.py:153} INFO - Started process (PID=97096) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:18:33.713+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:18:33.715+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:18:33.714+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:18:34.373+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:18:34.415+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:18:34.414+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:18:34.454+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:18:34.454+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:18:34.484+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.776 seconds
+[2023-04-19T10:19:05.355+0000] {processor.py:153} INFO - Started process (PID=97157) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:19:05.357+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:19:05.357+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:19:05.357+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:19:05.690+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:19:05.704+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:19:05.704+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:19:05.718+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:19:05.718+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:19:05.726+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.375 seconds
+[2023-04-19T10:19:35.957+0000] {processor.py:153} INFO - Started process (PID=97212) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:19:35.958+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:19:35.959+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:19:35.959+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:19:36.296+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:19:36.317+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:19:36.317+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:19:36.331+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:19:36.331+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:19:36.348+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.393 seconds
+[2023-04-19T10:20:06.710+0000] {processor.py:153} INFO - Started process (PID=97267) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:20:06.711+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:20:06.712+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:20:06.712+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:20:07.046+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:20:07.060+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:20:07.060+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:20:07.073+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:20:07.073+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:20:07.082+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.377 seconds
+[2023-04-19T10:20:37.403+0000] {processor.py:153} INFO - Started process (PID=97322) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:20:37.404+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:20:37.405+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:20:37.405+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:20:37.668+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:20:37.682+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:20:37.682+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:20:37.696+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:20:37.696+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:20:37.705+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.305 seconds
+[2023-04-19T10:21:07.921+0000] {processor.py:153} INFO - Started process (PID=97377) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:21:07.922+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:21:07.924+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:21:07.924+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:21:08.312+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:21:08.329+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:21:08.329+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:21:08.343+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:21:08.343+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:21:08.353+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.436 seconds
+[2023-04-19T10:21:38.605+0000] {processor.py:153} INFO - Started process (PID=97432) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:21:38.606+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:21:38.607+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:21:38.607+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:21:38.979+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:21:39.011+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:21:39.011+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:21:39.026+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:21:39.025+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:21:39.037+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.435 seconds
+[2023-04-19T10:22:09.435+0000] {processor.py:153} INFO - Started process (PID=97487) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:22:09.436+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:22:09.437+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:22:09.436+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:22:09.804+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:22:09.819+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:22:09.818+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:22:09.832+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:22:09.832+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:22:09.841+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.408 seconds
+[2023-04-19T10:22:40.172+0000] {processor.py:153} INFO - Started process (PID=97542) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:22:40.173+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:22:40.175+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:22:40.175+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:22:40.492+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:22:40.506+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:22:40.506+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:22:40.520+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:22:40.520+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:22:40.530+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.362 seconds
+[2023-04-19T10:23:10.860+0000] {processor.py:153} INFO - Started process (PID=97597) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:23:10.863+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:23:10.864+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:23:10.864+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:23:11.335+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:23:11.354+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:23:11.353+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:23:11.368+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:23:11.368+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:23:11.382+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.529 seconds
+[2023-04-19T10:23:41.672+0000] {processor.py:153} INFO - Started process (PID=97652) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:23:41.674+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:23:41.674+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:23:41.674+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:23:42.043+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:23:42.059+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:23:42.059+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:23:42.075+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:23:42.075+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:23:42.084+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.415 seconds
+[2023-04-19T10:24:12.461+0000] {processor.py:153} INFO - Started process (PID=97707) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:24:12.462+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:24:12.463+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:24:12.463+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:24:12.916+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:24:12.935+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:24:12.935+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:24:12.950+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:24:12.950+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:24:12.960+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.505 seconds
+[2023-04-19T10:24:43.786+0000] {processor.py:153} INFO - Started process (PID=97762) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:24:43.788+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:24:43.790+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:24:43.790+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:24:44.135+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:24:44.155+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:24:44.154+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:24:44.167+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:24:44.167+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:24:44.177+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.396 seconds
+[2023-04-19T10:25:14.653+0000] {processor.py:153} INFO - Started process (PID=97817) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:25:14.655+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:25:14.656+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:25:14.656+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:25:15.039+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:25:15.054+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:25:15.054+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:25:15.068+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:25:15.068+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:25:15.077+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.430 seconds
+[2023-04-19T10:25:45.200+0000] {processor.py:153} INFO - Started process (PID=97872) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:25:45.202+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:25:45.203+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:25:45.203+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:25:45.512+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:25:45.527+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:25:45.526+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:25:45.540+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:25:45.540+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:25:45.549+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.354 seconds
+[2023-04-19T10:26:15.818+0000] {processor.py:153} INFO - Started process (PID=97927) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:26:15.820+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:26:15.821+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:26:15.821+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:26:16.188+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:26:16.207+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:26:16.206+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:26:16.220+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:26:16.220+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:26:16.230+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.416 seconds
+[2023-04-19T10:26:46.618+0000] {processor.py:153} INFO - Started process (PID=97982) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:26:46.619+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:26:46.621+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:26:46.620+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:26:47.000+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:26:47.015+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:26:47.014+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:26:47.028+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:26:47.028+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:26:47.038+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.425 seconds
+[2023-04-19T10:27:17.403+0000] {processor.py:153} INFO - Started process (PID=98037) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:27:17.405+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:27:17.406+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:27:17.406+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:27:17.862+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:27:17.890+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:27:17.890+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:27:17.906+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:27:17.906+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:27:17.916+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.517 seconds
+[2023-04-19T10:27:48.121+0000] {processor.py:153} INFO - Started process (PID=98092) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:27:48.123+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:27:48.124+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:27:48.124+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:27:48.464+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:27:48.480+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:27:48.479+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:27:48.499+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:27:48.499+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:27:48.511+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.396 seconds
+[2023-04-19T10:28:18.776+0000] {processor.py:153} INFO - Started process (PID=98147) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:28:18.778+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:28:18.779+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:28:18.779+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:28:19.323+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:28:19.345+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:28:19.345+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:28:19.361+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:28:19.360+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:28:19.372+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.613 seconds
+[2023-04-19T10:28:49.887+0000] {processor.py:153} INFO - Started process (PID=98202) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:28:49.889+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:28:49.892+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:28:49.892+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:28:50.233+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:28:50.255+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:28:50.254+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:28:50.268+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:28:50.268+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:28:50.278+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.397 seconds
+[2023-04-19T10:29:20.485+0000] {processor.py:153} INFO - Started process (PID=98257) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:29:20.487+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:29:20.488+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:29:20.488+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:29:20.858+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:29:20.874+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:29:20.874+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:29:20.893+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:29:20.892+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:29:20.904+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.423 seconds
+[2023-04-19T10:29:51.213+0000] {processor.py:153} INFO - Started process (PID=98312) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:29:51.215+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:29:51.216+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:29:51.216+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:29:51.573+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:29:51.591+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:29:51.590+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:29:51.604+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:29:51.604+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:29:51.613+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.405 seconds
+[2023-04-19T10:30:21.945+0000] {processor.py:153} INFO - Started process (PID=98367) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:30:21.947+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:30:21.948+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:30:21.948+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:30:22.351+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:30:22.370+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:30:22.370+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:30:22.390+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:30:22.390+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:30:22.401+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.460 seconds
+[2023-04-19T10:30:52.614+0000] {processor.py:153} INFO - Started process (PID=98422) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:30:52.616+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:30:52.617+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:30:52.617+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:30:52.945+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:30:52.962+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:30:52.961+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:30:52.975+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:30:52.975+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:30:52.984+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.374 seconds
+[2023-04-19T10:31:23.172+0000] {processor.py:153} INFO - Started process (PID=98477) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:31:23.174+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:31:23.175+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:31:23.175+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:31:23.532+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:31:23.549+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:31:23.548+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:31:23.564+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:31:23.564+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:31:23.574+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.407 seconds
+[2023-04-19T10:31:53.918+0000] {processor.py:153} INFO - Started process (PID=98532) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:31:53.919+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:31:53.920+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:31:53.920+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:31:54.278+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:31:54.294+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:31:54.294+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:31:54.308+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:31:54.307+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:31:54.317+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.405 seconds
+[2023-04-19T10:32:24.719+0000] {processor.py:153} INFO - Started process (PID=98587) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:32:24.720+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:32:24.721+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:32:24.721+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:32:25.234+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:32:25.250+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:32:25.250+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:32:25.265+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:32:25.265+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:32:25.278+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.562 seconds
+[2023-04-19T10:32:55.604+0000] {processor.py:153} INFO - Started process (PID=98642) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:32:55.607+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:32:55.609+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:32:55.609+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:32:56.019+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:32:56.035+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:32:56.034+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:32:56.049+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:32:56.049+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:32:56.059+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.460 seconds
+[2023-04-19T10:33:26.387+0000] {processor.py:153} INFO - Started process (PID=98697) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:33:26.388+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:33:26.389+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:33:26.389+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:33:26.890+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:33:26.906+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:33:26.905+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:33:26.920+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:33:26.920+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:33:26.933+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.549 seconds
+[2023-04-19T10:33:57.495+0000] {processor.py:153} INFO - Started process (PID=98752) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:33:57.497+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:33:57.498+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:33:57.498+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:33:57.994+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:33:58.018+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:33:58.018+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:33:58.032+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:33:58.032+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:33:58.043+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.552 seconds
+[2023-04-19T10:34:28.262+0000] {processor.py:153} INFO - Started process (PID=98808) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:34:28.264+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:34:28.265+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:34:28.265+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:34:28.779+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:34:28.796+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:34:28.795+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:34:28.811+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:34:28.811+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:34:28.821+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.567 seconds
+[2023-04-19T10:34:59.336+0000] {processor.py:153} INFO - Started process (PID=98863) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:34:59.338+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:34:59.339+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:34:59.339+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:34:59.833+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:34:59.851+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:34:59.851+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:34:59.871+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:34:59.871+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:34:59.882+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.551 seconds
+[2023-04-19T10:35:30.285+0000] {processor.py:153} INFO - Started process (PID=98918) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:35:30.287+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:35:30.288+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:35:30.288+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:35:30.866+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:35:30.887+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:35:30.886+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:35:30.901+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:35:30.901+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:35:30.912+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.633 seconds
+[2023-04-19T10:36:01.154+0000] {processor.py:153} INFO - Started process (PID=98973) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:36:01.155+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:36:01.155+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:36:01.155+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:36:01.669+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:36:01.692+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:36:01.692+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:36:01.708+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:36:01.708+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:36:01.719+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.569 seconds
+[2023-04-19T10:36:31.974+0000] {processor.py:153} INFO - Started process (PID=99028) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:36:31.976+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:36:31.977+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:36:31.977+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:36:32.486+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:36:32.509+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:36:32.509+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:36:32.524+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:36:32.524+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:36:32.535+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.567 seconds
+[2023-04-19T10:37:02.951+0000] {processor.py:153} INFO - Started process (PID=99083) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:37:02.953+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:37:02.954+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:37:02.954+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:37:03.463+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:37:03.482+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:37:03.481+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:37:03.499+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:37:03.499+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:37:03.511+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.565 seconds
+[2023-04-19T10:37:33.688+0000] {processor.py:153} INFO - Started process (PID=99138) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:37:33.689+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:37:33.690+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:37:33.690+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:37:34.196+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:37:34.217+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:37:34.217+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:37:34.231+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:37:34.231+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:37:34.241+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.559 seconds
+[2023-04-19T10:38:04.465+0000] {processor.py:153} INFO - Started process (PID=99193) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:38:04.467+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:38:04.468+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:38:04.468+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:38:04.975+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:38:04.992+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:38:04.991+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:38:05.006+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:38:05.006+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:38:05.016+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.556 seconds
+[2023-04-19T10:38:35.188+0000] {processor.py:153} INFO - Started process (PID=99248) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:38:35.189+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:38:35.190+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:38:35.190+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:38:35.478+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:38:35.492+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:38:35.492+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:38:35.506+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:38:35.506+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:38:35.515+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.332 seconds
+[2023-04-19T10:39:05.855+0000] {processor.py:153} INFO - Started process (PID=99303) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:39:05.857+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:39:05.858+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:39:05.858+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:39:06.200+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:39:06.227+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:39:06.227+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:39:06.244+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:39:06.244+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:39:06.254+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.406 seconds
+[2023-04-19T10:39:36.459+0000] {processor.py:153} INFO - Started process (PID=99358) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:39:36.460+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:39:36.461+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:39:36.461+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:39:36.764+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:39:36.779+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:39:36.779+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:39:36.791+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:39:36.791+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:39:36.800+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.346 seconds
+[2023-04-19T10:40:06.994+0000] {processor.py:153} INFO - Started process (PID=99413) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:40:06.995+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:40:06.997+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:40:06.997+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:40:07.485+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:40:07.507+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:40:07.506+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:40:07.522+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:40:07.521+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:40:07.532+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.543 seconds
+[2023-04-19T10:40:37.939+0000] {processor.py:153} INFO - Started process (PID=99468) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:40:37.940+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:40:37.941+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:40:37.941+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:40:38.313+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:40:38.332+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:40:38.331+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:40:38.345+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:40:38.345+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:40:38.355+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.422 seconds
+[2023-04-19T10:41:08.538+0000] {processor.py:153} INFO - Started process (PID=99523) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:41:08.540+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:41:08.541+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:41:08.541+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:41:08.903+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:41:08.921+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:41:08.920+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:41:08.935+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:41:08.935+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:41:08.943+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.411 seconds
+[2023-04-19T10:41:39.171+0000] {processor.py:153} INFO - Started process (PID=99577) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:41:39.173+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:41:39.174+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:41:39.174+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:41:39.480+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:41:39.494+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:41:39.494+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:41:39.508+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:41:39.508+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:41:39.517+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.352 seconds
+[2023-04-19T10:42:09.826+0000] {processor.py:153} INFO - Started process (PID=99640) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:42:09.828+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:42:09.829+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:42:09.829+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:42:10.224+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:42:10.240+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:42:10.240+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:42:10.254+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:42:10.254+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:42:10.263+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.443 seconds
+[2023-04-19T10:42:40.555+0000] {processor.py:153} INFO - Started process (PID=99695) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:42:40.557+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:42:40.558+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:42:40.558+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:42:41.029+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:42:41.052+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:42:41.052+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:42:41.072+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:42:41.072+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:42:41.084+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.534 seconds
+[2023-04-19T10:43:11.362+0000] {processor.py:153} INFO - Started process (PID=99750) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:43:11.363+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:43:11.365+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:43:11.364+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:43:11.820+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:43:11.839+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:43:11.838+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:43:11.852+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:43:11.852+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:43:11.864+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.508 seconds
+[2023-04-19T10:43:42.225+0000] {processor.py:153} INFO - Started process (PID=99805) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:43:42.227+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:43:42.228+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:43:42.228+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:43:42.499+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:43:42.513+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:43:42.513+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:43:42.526+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:43:42.526+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:43:42.535+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.315 seconds
+[2023-04-19T10:44:12.774+0000] {processor.py:153} INFO - Started process (PID=99860) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:44:12.776+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:44:12.777+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:44:12.777+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:44:13.081+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:44:13.100+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:44:13.100+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:44:13.115+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:44:13.115+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:44:13.125+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.356 seconds
+[2023-04-19T10:44:43.355+0000] {processor.py:153} INFO - Started process (PID=99915) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:44:43.357+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:44:43.358+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:44:43.358+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:44:43.813+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:44:43.829+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:44:43.828+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:44:43.842+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:44:43.842+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:44:43.852+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.501 seconds
+[2023-04-19T10:45:14.113+0000] {processor.py:153} INFO - Started process (PID=99970) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:45:14.115+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:45:14.116+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:45:14.116+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:45:14.446+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:45:14.461+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:45:14.461+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:45:14.475+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:45:14.475+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:45:14.484+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.376 seconds
+[2023-04-19T10:45:44.752+0000] {processor.py:153} INFO - Started process (PID=326) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:45:44.754+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:45:44.755+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:45:44.755+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:45:45.041+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:45:45.056+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:45:45.055+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:45:45.069+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:45:45.068+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:45:45.078+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.330 seconds
+[2023-04-19T10:46:15.322+0000] {processor.py:153} INFO - Started process (PID=381) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:46:15.323+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:46:15.324+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:46:15.324+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:46:15.734+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:46:15.752+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:46:15.751+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:46:15.767+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:46:15.767+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:46:15.787+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.468 seconds
+[2023-04-19T10:46:46.342+0000] {processor.py:153} INFO - Started process (PID=436) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:46:46.344+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:46:46.345+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:46:46.344+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:46:46.735+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:46:46.757+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:46:46.757+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:46:46.772+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:46:46.771+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:46:46.782+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.443 seconds
+[2023-04-19T10:47:17.005+0000] {processor.py:153} INFO - Started process (PID=491) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:47:17.007+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:47:17.008+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:47:17.008+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:47:17.391+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:47:17.420+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:47:17.419+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:47:17.447+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:47:17.447+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:47:17.459+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.456 seconds
+[2023-04-19T10:47:47.858+0000] {processor.py:153} INFO - Started process (PID=546) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:47:47.859+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:47:47.861+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:47:47.861+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:47:48.241+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:47:48.258+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:47:48.258+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:47:48.273+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:47:48.273+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:47:48.284+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.431 seconds
+[2023-04-19T10:48:18.760+0000] {processor.py:153} INFO - Started process (PID=601) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:48:18.762+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:48:18.764+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:48:18.764+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:48:19.096+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:48:19.111+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:48:19.111+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:48:19.125+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:48:19.125+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:48:19.135+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.380 seconds
+[2023-04-19T10:48:49.621+0000] {processor.py:153} INFO - Started process (PID=656) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:48:49.623+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:48:49.624+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:48:49.624+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:48:50.045+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:48:50.061+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:48:50.060+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:48:50.075+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:48:50.074+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:48:50.085+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.471 seconds
+[2023-04-19T10:49:20.591+0000] {processor.py:153} INFO - Started process (PID=711) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:49:20.593+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:49:20.594+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:49:20.593+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:49:20.901+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:49:20.916+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:49:20.915+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:49:20.929+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:49:20.929+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:49:20.938+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.351 seconds
+[2023-04-19T10:49:51.204+0000] {processor.py:153} INFO - Started process (PID=766) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:49:51.205+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:49:51.206+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:49:51.206+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:49:51.584+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:49:51.602+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:49:51.602+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:49:51.615+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:49:51.615+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:49:51.625+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.426 seconds
+[2023-04-19T10:50:21.987+0000] {processor.py:153} INFO - Started process (PID=821) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:50:21.988+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:50:21.989+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:50:21.989+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:50:22.318+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:50:22.334+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:50:22.334+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:50:22.351+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:50:22.351+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:50:22.366+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.384 seconds
+[2023-04-19T10:50:52.498+0000] {processor.py:153} INFO - Started process (PID=876) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:50:52.500+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:50:52.501+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:50:52.501+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:50:52.911+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:50:52.927+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:50:52.927+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:50:52.942+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:50:52.942+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:50:52.951+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.456 seconds
+[2023-04-19T10:51:19.320+0000] {processor.py:153} INFO - Started process (PID=930) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:51:19.323+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:51:19.325+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:51:19.325+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:51:19.584+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:51:19.598+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:51:19.598+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:51:19.609+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:51:19.609+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:51:19.620+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.307 seconds
+[2023-04-19T10:51:50.089+0000] {processor.py:153} INFO - Started process (PID=987) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:51:50.092+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:51:50.093+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:51:50.093+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:51:50.375+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:51:50.391+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:51:50.390+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:51:50.403+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:51:50.403+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:51:50.412+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.329 seconds
+[2023-04-19T10:52:20.728+0000] {processor.py:153} INFO - Started process (PID=1042) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:52:20.730+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:52:20.731+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:52:20.731+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:52:21.004+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:52:21.019+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:52:21.019+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:52:21.031+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:52:21.031+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:52:21.040+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.317 seconds
+[2023-04-19T10:52:51.211+0000] {processor.py:153} INFO - Started process (PID=1097) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:52:51.215+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:52:51.217+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:52:51.216+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:52:51.490+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:52:51.506+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:52:51.505+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:52:51.518+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:52:51.518+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:52:51.527+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.322 seconds
+[2023-04-19T10:53:21.711+0000] {processor.py:153} INFO - Started process (PID=1152) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:53:21.713+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:53:21.714+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:53:21.714+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:53:21.970+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:53:21.984+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:53:21.983+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:53:21.996+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:53:21.996+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:53:22.004+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.300 seconds
+[2023-04-19T10:53:52.175+0000] {processor.py:153} INFO - Started process (PID=1207) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:53:52.177+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:53:52.179+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:53:52.179+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:53:52.447+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:53:52.462+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:53:52.462+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:53:52.475+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:53:52.475+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:53:52.484+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.315 seconds
+[2023-04-19T10:54:22.587+0000] {processor.py:153} INFO - Started process (PID=1262) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:54:22.589+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:54:22.590+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:54:22.590+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:54:22.842+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:54:22.856+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:54:22.856+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:54:22.868+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:54:22.868+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:54:22.877+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.295 seconds
+[2023-04-19T10:54:53.010+0000] {processor.py:153} INFO - Started process (PID=1317) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:54:53.012+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:54:53.014+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:54:53.014+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:54:53.294+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:54:53.310+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:54:53.310+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:54:53.322+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:54:53.322+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:54:53.331+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.328 seconds
+[2023-04-19T10:55:23.721+0000] {processor.py:153} INFO - Started process (PID=1372) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:55:23.722+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:55:23.723+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:55:23.723+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:55:23.955+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:55:23.968+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:55:23.968+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:55:23.980+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:55:23.980+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:55:23.989+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.271 seconds
+[2023-04-19T10:55:54.149+0000] {processor.py:153} INFO - Started process (PID=1427) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:55:54.152+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:55:54.153+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:55:54.153+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:55:54.465+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:55:54.480+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:55:54.480+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:55:54.493+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:55:54.493+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:55:54.502+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.360 seconds
+[2023-04-19T10:56:24.706+0000] {processor.py:153} INFO - Started process (PID=1482) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:56:24.709+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:56:24.710+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:56:24.710+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:56:24.976+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:56:24.993+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:56:24.993+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:56:25.006+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:56:25.006+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:56:25.015+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.315 seconds
+[2023-04-19T10:56:55.144+0000] {processor.py:153} INFO - Started process (PID=1537) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:56:55.147+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:56:55.148+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:56:55.148+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:56:55.426+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:56:55.441+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:56:55.441+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:56:55.453+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:56:55.453+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:56:55.462+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.324 seconds
+[2023-04-19T10:57:25.798+0000] {processor.py:153} INFO - Started process (PID=1592) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:57:25.799+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:57:25.800+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:57:25.800+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:57:26.035+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:57:26.050+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:57:26.049+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:57:26.062+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:57:26.062+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:57:26.071+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.276 seconds
+[2023-04-19T10:57:56.252+0000] {processor.py:153} INFO - Started process (PID=1647) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:57:56.253+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:57:56.254+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:57:56.254+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:57:56.534+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:57:56.550+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:57:56.549+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:57:56.563+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:57:56.563+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:57:56.572+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.324 seconds
+[2023-04-19T10:58:26.881+0000] {processor.py:153} INFO - Started process (PID=1702) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:58:26.884+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:58:26.886+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:58:26.886+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:58:27.174+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:58:27.189+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:58:27.189+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:58:27.201+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:58:27.201+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:58:27.210+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.336 seconds
+[2023-04-19T10:58:57.443+0000] {processor.py:153} INFO - Started process (PID=1757) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:58:57.445+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:58:57.446+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:58:57.446+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:58:57.718+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:58:57.733+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:58:57.733+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:58:57.746+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:58:57.746+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:58:57.756+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.316 seconds
+[2023-04-19T10:59:28.105+0000] {processor.py:153} INFO - Started process (PID=1812) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:59:28.108+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:59:28.109+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:59:28.109+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:59:28.380+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:59:28.395+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:59:28.394+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:59:28.407+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:59:28.407+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:59:28.416+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.317 seconds
+[2023-04-19T10:59:58.600+0000] {processor.py:153} INFO - Started process (PID=1867) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:59:58.602+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T10:59:58.603+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:59:58.603+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:59:58.852+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T10:59:58.866+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:59:58.866+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T10:59:58.878+0000] {logging_mixin.py:137} INFO - [2023-04-19T10:59:58.878+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T10:59:58.887+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.292 seconds
+[2023-04-19T11:00:29.373+0000] {processor.py:153} INFO - Started process (PID=1923) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:00:29.375+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:00:29.377+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:00:29.377+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:00:29.668+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:00:29.686+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:00:29.686+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:00:29.702+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:00:29.702+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:00:29.714+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.345 seconds
+[2023-04-19T11:00:59.924+0000] {processor.py:153} INFO - Started process (PID=1978) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:00:59.926+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:00:59.929+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:00:59.929+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:01:00.206+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:01:00.227+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:01:00.226+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:01:00.241+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:01:00.241+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:01:00.250+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.332 seconds
+[2023-04-19T11:01:30.356+0000] {processor.py:153} INFO - Started process (PID=2033) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:01:30.359+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:01:30.361+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:01:30.361+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:01:30.658+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:01:30.674+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:01:30.673+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:01:30.686+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:01:30.686+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:01:30.695+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.347 seconds
+[2023-04-19T11:02:00.927+0000] {processor.py:153} INFO - Started process (PID=2088) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:02:00.929+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:02:00.930+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:02:00.930+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:02:01.198+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:02:01.211+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:02:01.211+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:02:01.222+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:02:01.222+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:02:01.231+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.308 seconds
+[2023-04-19T11:02:31.426+0000] {processor.py:153} INFO - Started process (PID=2143) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:02:31.429+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:02:31.430+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:02:31.430+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:02:31.692+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:02:31.706+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:02:31.706+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:02:31.719+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:02:31.719+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:02:31.727+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.307 seconds
+[2023-04-19T11:03:01.960+0000] {processor.py:153} INFO - Started process (PID=2198) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:03:01.963+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:03:01.964+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:03:01.964+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:03:02.230+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:03:02.247+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:03:02.247+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:03:02.262+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:03:02.262+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:03:02.271+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.317 seconds
+[2023-04-19T11:03:32.614+0000] {processor.py:153} INFO - Started process (PID=2254) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:03:32.616+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:03:32.617+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:03:32.617+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:03:32.890+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:03:32.904+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:03:32.904+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:03:32.916+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:03:32.916+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:03:32.925+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.315 seconds
+[2023-04-19T11:04:03.053+0000] {processor.py:153} INFO - Started process (PID=2309) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:04:03.055+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:04:03.057+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:04:03.057+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:04:03.314+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:04:03.329+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:04:03.328+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:04:03.341+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:04:03.341+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:04:03.350+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.303 seconds
+[2023-04-19T11:04:33.521+0000] {processor.py:153} INFO - Started process (PID=2364) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:04:33.524+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:04:33.525+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:04:33.525+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:04:33.997+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:04:34.012+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:04:34.012+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:04:34.025+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:04:34.025+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:04:34.034+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.516 seconds
+[2023-04-19T11:05:04.156+0000] {processor.py:153} INFO - Started process (PID=2419) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:05:04.158+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:05:04.158+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:05:04.158+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:05:04.421+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:05:04.436+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:05:04.436+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:05:04.448+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:05:04.448+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:05:04.457+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.304 seconds
+[2023-04-19T11:05:34.656+0000] {processor.py:153} INFO - Started process (PID=2474) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:05:34.657+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:05:34.659+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:05:34.659+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:05:34.985+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:05:34.999+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:05:34.999+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:05:35.011+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:05:35.011+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:05:35.020+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.370 seconds
+[2023-04-19T11:06:05.109+0000] {processor.py:153} INFO - Started process (PID=2529) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:06:05.112+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:06:05.113+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:06:05.113+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:06:05.363+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:06:05.377+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:06:05.376+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:06:05.389+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:06:05.389+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:06:05.398+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.293 seconds
+[2023-04-19T11:06:35.536+0000] {processor.py:153} INFO - Started process (PID=2584) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:06:35.540+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:06:35.541+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:06:35.541+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:06:35.882+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:06:35.897+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:06:35.897+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:06:35.909+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:06:35.909+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:06:35.918+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.390 seconds
+[2023-04-19T11:07:06.169+0000] {processor.py:153} INFO - Started process (PID=2639) to work on /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:07:06.171+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/Hanseata_dag.py for tasks to queue
+[2023-04-19T11:07:06.172+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:07:06.172+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:07:06.438+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/Hanseata_dag.py
+[2023-04-19T11:07:06.453+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:07:06.452+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-19T11:07:06.467+0000] {logging_mixin.py:137} INFO - [2023-04-19T11:07:06.467+0000] {dag.py:3456} INFO - Setting next_dagrun for first_dag to 2023-12-04T00:00:00+00:00, run_after=2023-12-05T00:00:00+00:00
+[2023-04-19T11:07:06.479+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/Hanseata_dag.py took 0.315 seconds
